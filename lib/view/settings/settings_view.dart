@@ -66,7 +66,7 @@ class _SettingsViewState extends State<SettingsView> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  "Code For Any",
+                  "Bhargavi",
                   style: TextStyle(
                       color: TColor.white,
                       fontSize: 20,
@@ -81,7 +81,7 @@ class _SettingsViewState extends State<SettingsView> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  "codeforany@gmail.com",
+                  "bhargavikhadap@gmail.com",
                   style: TextStyle(
                       color: TColor.gray30,
                       fontSize: 12,
@@ -194,7 +194,7 @@ class _SettingsViewState extends State<SettingsView> {
                         IconItemRow(
                           title: "Default currency",
                           icon: "assets/img/money.png",
-                          value: "USD (\$)",
+                          value: "INR (\₹)",
                         ),
                         
                       ],

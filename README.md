@@ -42,12 +42,4 @@ Customize the app according to your preferences using the "Settings" screen. Adj
 ![image](https://github.com/bhargavi0401/monthly_subscriptions_tracker/assets/99488704/5a7f9553-573e-4d7c-bb6a-9b5d7e5f0d41)
 
 
-## Getting Started
-
-To run the app locally, follow these steps:
-
-1. Ensure you have Flutter and Dart installed on your development machine.
-2. Clone this repository to your local machine.
-3. Navigate to the project directory and run `flutter pub get` to install dependencies.
-4. Run `flutter run` to launch the app on your emulator or connected device.
 
